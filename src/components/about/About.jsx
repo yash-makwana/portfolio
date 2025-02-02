@@ -34,8 +34,7 @@ const About = () => {
                         </article>
                     </div>
                     
-                    <p>I'm success-driven, determined Frontend developer I have experience using HTML SCSS & JavaScript to build accessible component-based web pages and systems 
-                    A passionate person willing to learn more technologies to become a better developer than i was yesterday So determined and result orietend.</p>
+                    <p>I am a Data Scientist and Developer who works with AI and machine learning to help businesses use data in smart and efficient ways. My work involves teaching computers to recognize patterns, make predictions, and automate tasks to save time and improve decision-making. I have over two years of experience working on various IT projects, helping companies build better, smarter systems.🚀</p>
                     <p>I have also achieved a good understanding of relational databases. well as solid computer science foundations such as complex algorithms and code challenge type problem solving</p>
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
                  </div>
