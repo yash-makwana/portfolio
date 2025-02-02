@@ -138,13 +138,6 @@ const Experience = () => {
                         <h3>Other Technologies</h3>
                         <div className="experience_content">
                             <article className="experience_details">
-                                <SiPython className="experience_details_icons"/>
-                                <div>
-                                    <h4>Python</h4>
-                                    <small className="text-light">Intermediate</small>
-                                </div>
-                            </article>
-                            <article className="experience_details">
                                 <FaCopyright className="experience_details_icons"/>
                                 <div>
                                     <h4>C</h4>
