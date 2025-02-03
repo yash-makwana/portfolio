@@ -10,12 +10,9 @@ const Portfolio = () => {
 
             <div className="container portfolio_container">
                 {
-                    Data.map(({ id, img, title, github, description }) => {
+                    Data.map(({ id, title, github, description }) => {
                         return (
                             <article key={id} className="portfolio_item">
-                                <div className="portfolio_item_image">
-                                    {img ? <img src={img} alt="Project Thumbnail" /> : <div className="placeholder">No Image Available</div>}
-                                </div>
                                 <h3>{title}</h3>
                                 <p>{description}</p>
                                 <div className="portfolio_item-cta">
